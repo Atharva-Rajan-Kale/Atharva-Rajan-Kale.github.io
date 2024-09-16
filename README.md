@@ -1,1 +1,1 @@
-<img src="images/Resume.jpg" align="center">
+<img src="images/AtharvaKaleResume.jpg" align="center">
